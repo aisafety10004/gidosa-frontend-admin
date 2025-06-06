@@ -1,2 +1,26 @@
+@import './fonts.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
+@layer base {
+  *,
+  *::before,
+  *::after {
+    @apply box-border;
+  }
 
+  body {
+    @apply bg-white text-black;
+  }
+
+  html {
+    font-family: 'Pretendard', system-ui, sans-serif;
+  }
+
+  img {
+    @apply inline-block;
+  }
+}
+
+@layer utilities {}
