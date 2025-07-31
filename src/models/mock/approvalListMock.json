@@ -1,0 +1,127 @@
+{
+  "data": {
+    "list": [
+      {
+        "id": 1,
+        "department": "경영기획부",
+        "docId": "주주_2025_01_01",
+        "docTitle": "주주 결제 요청",
+        "draft": "김효동",
+        "approver": "김승민",
+        "createdAt": "2025-01-01",
+        "approvalDate": "2025-02-01",
+        "note": "delete"
+      },
+      {
+        "id": 2,
+        "department": "경영기획부",
+        "docId": "주총_2025_01_01",
+        "docTitle": "주총 결제 요청",
+        "draft": "김승민",
+        "approver": "나대표",
+        "createdAt": "2025-01-01",
+        "approvalDate": "2025-02-01",
+        "note": "fail"
+      },
+      {
+        "id": 3,
+        "department": "경영기획부",
+        "docId": "경영보고_2025_01_01",
+        "docTitle": "경영 보고 결제 요청",
+        "draft": "강민정",
+        "approver": "부사장",
+        "createdAt": "2025-01-01",
+        "approvalDate": "2025-02-01",
+        "note": "pending"
+      },
+      {
+        "id": 4,
+        "department": "경영기획부",
+        "docId": "경영보고_2025_01_01",
+        "docTitle": "경영 보고 결제 요청",
+        "draft": "강민정",
+        "approver": "부사장",
+        "createdAt": "2025-01-01",
+        "approvalDate": "2025-02-01",
+        "note": "delete"
+      },
+      {
+        "id": 5,
+        "department": "경영기획부",
+        "docId": "경영보고_2025_01_01",
+        "docTitle": "경영 보고 결제 요청",
+        "draft": "강민정",
+        "approver": "부사장",
+        "createdAt": "2025-01-01",
+        "approvalDate": "",
+        "note": "complete"
+      },
+      {
+        "id": 6,
+        "department": "경영기획부",
+        "docId": "경영보고_2025_01_01",
+        "docTitle": "경영 보고 결제 요청",
+        "draft": "강민정",
+        "approver": "부사장",
+        "createdAt": "2025-01-01",
+        "approvalDate": "2025-02-01",
+        "note": "complete"
+      },
+      {
+        "id": 7,
+        "department": "경영기획부",
+        "docId": "경영보고_2025_01_01",
+        "docTitle": "경영 보고 결제 요청",
+        "draft": "강민정",
+        "approver": "부사장",
+        "createdAt": "2025-01-01",
+        "approvalDate": "2025-02-01",
+        "note": "complete"
+      },
+      {
+        "id": 8,
+        "department": "경영기획부",
+        "docId": "경영보고_2025_01_01",
+        "docTitle": "경영 보고 결제 요청",
+        "draft": "강민정",
+        "approver": "부사장",
+        "createdAt": "2025-01-01",
+        "approvalDate": "2025-02-01",
+        "note": "complete"
+      },
+      {
+        "id": 9,
+        "department": "경영기획부",
+        "docId": "경영보고_2025_01_01",
+        "docTitle": "경영 보고 결제 요청",
+        "draft": "강민정",
+        "approver": "부사장",
+        "createdAt": "2025-01-01",
+        "approvalDate": "2025-02-01",
+        "note": "complete"
+      },
+      {
+        "id": 10,
+        "department": "경영기획부",
+        "docId": "경영보고_2025_01_01",
+        "docTitle": "경영 보고 결제 요청",
+        "draft": "강민정",
+        "approver": "부사장",
+        "createdAt": "2025-01-01",
+        "approvalDate": "2025-02-01",
+        "note": "complete"
+      },
+      {
+        "id": 11,
+        "department": "경영기획부",
+        "docId": "경영보고_2025_01_01",
+        "docTitle": "경영 보고 결제 요청",
+        "draft": "강민정",
+        "approver": "부사장",
+        "createdAt": "2025-01-01",
+        "approvalDate": "2025-02-01",
+        "note": "complete"
+      }
+    ]
+  }
+}

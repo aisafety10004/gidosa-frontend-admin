@@ -1,0 +1,62 @@
+{
+  "data": {
+    "list": [
+      {
+        "id": "1",
+        "type": "안전보건",
+        "name": "안전보건",
+        "description": "안전보건 설명",
+        "content": "<div>안전보건 내용</div>",
+        "createdAt": "2025-01-01"
+      },
+      {
+        "id": "2",
+        "type": "환경",
+        "name": "환경",
+        "description": "환경 설명",
+        "content": "<h1>환경 내용</h1>",
+        "createdAt": "2025-01-01"
+      },
+      {
+        "id": "3",
+        "type": "일반",
+        "name": "일반문서",
+        "description": "일반문서 설명",
+        "content": "<div>일반문서 내용</div>",
+        "createdAt": "2025-01-01"
+      },
+      {
+        "id": "4",
+        "type": "일반",
+        "name": "일반문서2",
+        "description": "일반문서2 설명",
+        "content": "<div>일반문서2 내용</div>",
+        "createdAt": "2025-01-01"
+      },
+      {
+        "id": "5",
+        "type": "근태",
+        "name": "휴가 신청서",
+        "description": "휴가 신청서 설명",
+        "content": "<div>휴가 신청서 내용</div>",
+        "createdAt": "2025-01-01"
+      },
+      {
+        "id": "6",
+        "type": "근태",
+        "name": "출장 신청서",
+        "description": "출장 신청서 설명",
+        "content": "<div>출장 신청서 내용</div>",
+        "createdAt": "2025-01-01"
+      },
+      {
+        "id": "7",
+        "type": "근태",
+        "name": "휴직 신청서",
+        "description": "휴직 신청서 설명",
+        "content": "<div>휴직 신청서 내용</div>",
+        "createdAt": "2025-01-01"
+      }
+    ]
+  }
+}

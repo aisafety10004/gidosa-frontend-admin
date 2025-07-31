@@ -1,0 +1,14 @@
+{
+  "data": {
+    "id": 1,
+    "title": "결제요청 합니다.",
+    "name": "김효동",
+    "paymentStatus": "complete",
+    "docId": "1234567890",
+    "docFileName": "결제요청서.pdf",
+    "createdAt": "2025-01-01",
+    "department": "공통 문서",
+    "paymentType": "management/common",
+    "body": "<p>결제요청 합니다.</p>"
+  }
+}

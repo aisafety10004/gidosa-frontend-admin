@@ -1,0 +1,77 @@
+{
+  "data": {
+    "list": [
+      {
+        "key": "hr",
+        "data": { "department": "인사팀" },
+        "selectable": false,
+        "children": [
+          {
+            "key": "1001",
+            "data": {
+              "name": "김지은",
+              "position": "팀장",
+              "email": "jieun.kim@company.com",
+              "phone": "02-1234-1001",
+              "employeeId": "HR001"
+            }
+          },
+          {
+            "key": "1002",
+            "data": {
+              "name": "박현우",
+              "position": "채용담당자",
+              "email": "hyunwoo.park@company.com",
+              "phone": "02-1234-1002",
+              "employeeId": "HR002"
+            }
+          }
+        ]
+      },
+      {
+        "key": "dev",
+        "data": { "department": "개발팀" },
+        "selectable": false,
+        "children": [
+          {
+            "key": "2001",
+            "data": {
+              "name": "이수혁",
+              "position": "백엔드 개발자",
+              "email": "soohyeok.lee@company.com",
+              "phone": "02-1234-2001",
+              "employeeId": "DEV001"
+            }
+          },
+          {
+            "key": "2002",
+            "data": {
+              "name": "정예지",
+              "position": "프론트엔드 개발자",
+              "email": "yeji.jung@company.com",
+              "phone": "02-1234-2002",
+              "employeeId": "DEV002"
+            }
+          }
+        ]
+      },
+      {
+        "key": "sales",
+        "data": { "department": "영업팀" },
+        "selectable": false,
+        "children": [
+          {
+            "key": "3001",
+            "data": {
+              "name": "최지훈",
+              "position": "영업팀장",
+              "email": "jihun.choi@company.com",
+              "phone": "02-1234-3001",
+              "employeeId": "SAL001"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
